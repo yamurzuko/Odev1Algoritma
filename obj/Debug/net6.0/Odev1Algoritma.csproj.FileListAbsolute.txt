@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/bin/Debug/net6.0/Odev1Algoritma
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/bin/Debug/net6.0/Odev1Algoritma.deps.json
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/bin/Debug/net6.0/Odev1Algoritma.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/bin/Debug/net6.0/Odev1Algoritma.dll
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/bin/Debug/net6.0/Odev1Algoritma.pdb
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/obj/Debug/net6.0/Odev1Algoritma.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/obj/Debug/net6.0/Odev1Algoritma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/obj/Debug/net6.0/Odev1Algoritma.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/obj/Debug/net6.0/Odev1Algoritma.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/obj/Debug/net6.0/Odev1Algoritma.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/obj/Debug/net6.0/Odev1Algoritma.dll
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/obj/Debug/net6.0/refint/Odev1Algoritma.dll
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/obj/Debug/net6.0/Odev1Algoritma.pdb
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/obj/Debug/net6.0/Odev1Algoritma.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/Odev1Algoritma/obj/Debug/net6.0/ref/Odev1Algoritma.dll
