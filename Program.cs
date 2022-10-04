@@ -176,20 +176,21 @@ namespace Odev1Algoritma
             string[] word = temp.Split(' ');
             Console.WriteLine("Cümledeki harf sayisi: " + characterCount);
             Console.WriteLine("Cümledeki Kelime Sayisi: " + word.Length);
-        }
-        public static bool IsNumeric(string text)
-        {
-            foreach (char chr in text)
-            {
-                if (!Char.IsNumber(chr)) return false;
             }
-            return true;
+            public static bool IsNumeric(string text)
+            {
+                foreach (char chr in text)
+                {
+                    if (!Char.IsNumber(chr)) return false;
+                }
+                return true;
+            }
+            public static string RemoveSpaces(this string param)
+            {
+                string[] array = param.Split(" ");
+                return string.Join("",array);
+            }
+            */
         }
-        public static string RemoveSpaces(this string param)
-        {
-            string[] array = param.Split(" ");
-            return string.Join("",array);
-        }
-        */
     }
 }
